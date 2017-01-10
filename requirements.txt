@@ -1,0 +1,5 @@
+matplotlib==1.5.3
+numpy==1.11.2
+scapy===unknown.version
+scikit-learn==0.18.1
+tqdm==4.5.0
